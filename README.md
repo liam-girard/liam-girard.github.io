@@ -1,5 +1,4 @@
 # This is my GitHub Page
-<h3 align="center">Author - Liam Girard</h3>
 Hello! My name is Liam Girard and this is my GitHub page! This is a test of using GitHub's personal webpage feature, so I will utilize it for the most important reason! Sharing fun facts about plants of course!
 
 ## Bunchberry (*Cornus canadensis*)
